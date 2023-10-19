@@ -6,7 +6,7 @@ I'm currently studying Mathematical Technical Software Development as a dual stu
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schmarsch&langs_count=5&hide=css&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <img align="left" alt="Vue" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-<img align="left" alt="NUxt" width="30px" style="padding-right:10px;" src="https://nuxt.com/assets/design-kit/logo/icon-green.svg" />
+<img align="left" alt="Nuxt" width="30px" style="padding-right:10px;" src="https://api.iconify.design/logos:nuxt-icon.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Tailwindcss" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />

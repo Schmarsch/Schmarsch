@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm currently studying Mathematical Technical Software Development as a dual study program at the [FH Aachen](https://www.fh-aachen.de/) and the [WZL](https://www.wzl.rwth-aachen.de/) at the RWTH Aachen.
+I have finished studying Mathematical Technical Software Development as a dual study program at the [FH Aachen](https://www.fh-aachen.de/) and the [WZL](https://www.wzl.rwth-aachen.de/) at the RWTH Aachen.
+Right now I am working as a Web Developer for [Linear GmbH](https://www.linear.eu/).
 
 ## Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schmarsch&langs_count=5&hide=css&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
